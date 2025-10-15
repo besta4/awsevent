@@ -1,6 +1,6 @@
 <?php
 // Database configuration for AWS RDS MySQL
-define('DB_HOST', 'workshop.chc66g4wq10o.ap-south-1.rds.amazonaws.com');
+define('DB_HOST', 'database-1-instance-1.ct4c0m8gu602.ap-south-1.rds.amazonaws.com');
 define('DB_NAME', 'aws_workshop');
 define('DB_USER', 'admin');
 define('DB_PASS', 'Avinash12345');
